@@ -1,4 +1,4 @@
-# Preface
+# Preface  -- work in progress, cross-references/figures to be added
 
 How to think like a computer scientist by Allen Downey
 
